@@ -1,0 +1,1 @@
+# fftcg-cube-list
